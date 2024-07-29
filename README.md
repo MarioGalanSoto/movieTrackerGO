@@ -22,19 +22,20 @@ A simple CLI application to track unseen and seen movies. This application allow
 ```bash
 git clone https://github.com/yourusername/movieTracker.git
 cd movieTracker
+```
 
 2. Build the application:
 
 ```bash
 go build -o movieTracker movieTracker.go
-
+```
 ## Usage
 
 Run the application:
 
 ```bash
 ./movieTracker
-
+```
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems.
