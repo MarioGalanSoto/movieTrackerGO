@@ -20,7 +20,7 @@ A simple CLI application to track unseen and seen movies. This application allow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/movieTracker.git
+git clone https://github.com/MarioGalanSoto/movieTracker.git
 cd movieTracker
 ```
 
